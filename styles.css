@@ -1,0 +1,27 @@
+body {
+    margin: 20px;
+    text-align: center;
+    
+}
+
+.avatar {
+    width: 150px;
+}
+
+.card {
+
+    border: none blue;
+    padding: 20px;
+    display: flex;
+    background-color: bisque;
+   
+}
+
+.intro {
+    margin-left: 20px;
+}
+
+.box-holder {
+    padding-bottom: 10px;
+    background-color:darkslategrey;
+}
